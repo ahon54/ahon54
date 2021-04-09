@@ -17,8 +17,8 @@ My name is Adrian Hon and I am a full stack developer. I'm from Canada, living i
 
 ## 📫 Contact
 
-You can find me on [![LinkedIn{:target="_blank"}][1.1]][1].
-You can find me on [LinkedIn](https://www.linkedin.com/in/adrian-hon/){:target="_blank"}.
+You can find me on [![LinkedIn][1.1]][1].
+
 
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
 [1]: https://www.linkedin.com/in/adrian-hon/
