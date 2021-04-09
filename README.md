@@ -3,7 +3,7 @@
 
 ## 🛠 Techonologies and Tools
 
-![](https://img.shields.io/badge/<Code>-<Javascript>-informational?style=flat&logo=<JS>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<JS>&logoColor=white&color=2bbc8a)
 
 <!--
 **ahon54/ahon54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
