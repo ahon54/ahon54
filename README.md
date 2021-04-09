@@ -3,10 +3,10 @@
 ## 🛠 Techonologies and Tools
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=<JS>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<JS>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<JS>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=<JS>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue-dot-js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C Sharp-informational?style=flat =<JS>&logoColor=white&color=2bbc8a)
 
 <!--
