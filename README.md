@@ -4,7 +4,7 @@
 
 My name is Adrian Hon and I am a full stack developer. I'm from Canada, living in Vancouver.
 
-## 🛠 Techonologies and Tools
+## 🛠 Technologies and Tools
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
