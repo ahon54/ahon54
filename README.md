@@ -2,7 +2,7 @@
 
 ## 🤗 About me
 
-My name is Adrian Hon and I am a full stack developer. I'm from Canada, living in Vancouver.
+My name is Adrian Hon and I am looking to become a developer at Shopify. I'm from Canada, living in Vancouver.
 
 ## 🛠 Technologies and Tools
 
@@ -10,10 +10,7 @@ My name is Adrian Hon and I am a full stack developer. I'm from Canada, living i
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+
 
 ## 📫 Contact
 
